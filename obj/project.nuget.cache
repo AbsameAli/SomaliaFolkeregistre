@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FhKgH5G5GUwG/2sx9sdbR7TmqW9xjorJYBhVF7XLQZVzo4yvp7psfgYq4/rtl/uMhHWZBhI4IgEwGaujS+H1Jg==",
+  "dgSpecHash": "pv6qSgAlYxPfg61eoQIn7N2RQ4/IlpQv++cpRMjphY+pe2X64lUEhnXgmdI2QH7ht6hyb28sxs2jja6tbIqZdg==",
   "success": true,
-  "projectFilePath": "/workspaces/SomaliaFolkeregistre/SomaliaFolkeregistre.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\abali\\OneDrive - Sopra Steria\\SFR\\SomaliaFolkeregistre\\SomaliaFolkeregistre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abali\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\abali\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\abali\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\abali\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

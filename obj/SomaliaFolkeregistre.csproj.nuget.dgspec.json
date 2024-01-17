@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/SomaliaFolkeregistre/SomaliaFolkeregistre.csproj": {}
+    "C:\\Users\\abali\\OneDrive - Sopra Steria\\SFR\\SomaliaFolkeregistre\\SomaliaFolkeregistre.csproj": {}
   },
   "projects": {
-    "/workspaces/SomaliaFolkeregistre/SomaliaFolkeregistre.csproj": {
+    "C:\\Users\\abali\\OneDrive - Sopra Steria\\SFR\\SomaliaFolkeregistre\\SomaliaFolkeregistre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/SomaliaFolkeregistre/SomaliaFolkeregistre.csproj",
+        "projectUniqueName": "C:\\Users\\abali\\OneDrive - Sopra Steria\\SFR\\SomaliaFolkeregistre\\SomaliaFolkeregistre.csproj",
         "projectName": "SomaliaFolkeregistre",
-        "projectPath": "/workspaces/SomaliaFolkeregistre/SomaliaFolkeregistre.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/SomaliaFolkeregistre/obj/",
+        "projectPath": "C:\\Users\\abali\\OneDrive - Sopra Steria\\SFR\\SomaliaFolkeregistre\\SomaliaFolkeregistre.csproj",
+        "packagesPath": "C:\\Users\\abali\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abali\\OneDrive - Sopra Steria\\SFR\\SomaliaFolkeregistre\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\abali\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.202/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

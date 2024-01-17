@@ -1,0 +1,5 @@
+C:\Users\abali\OneDrive - Sopra Steria\SFR\SomaliaFolkeregistre\obj\Debug\net7.0\SomaliaFolkeregistre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abali\OneDrive - Sopra Steria\SFR\SomaliaFolkeregistre\obj\Debug\net7.0\SomaliaFolkeregistre.AssemblyInfoInputs.cache
+C:\Users\abali\OneDrive - Sopra Steria\SFR\SomaliaFolkeregistre\obj\Debug\net7.0\SomaliaFolkeregistre.AssemblyInfo.cs
+C:\Users\abali\OneDrive - Sopra Steria\SFR\SomaliaFolkeregistre\obj\Debug\net7.0\SomaliaFolkeregistre.csproj.CoreCompileInputs.cache
+C:\Users\abali\OneDrive - Sopra Steria\SFR\SomaliaFolkeregistre\obj\Debug\net7.0\SomaliaFolkeregistre.sourcelink.json
